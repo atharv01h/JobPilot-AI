@@ -1,0 +1,34 @@
+Name: Atharv
+Email: atharv@example.com
+Mobile: +91 85xxx8xx5xx
+Gender: Male
+Nationality: Indian
+Current Location: Pune
+Hometown: Pune ,MH
+
+--- Experience & Job Preferences ---
+Total Experience: 4 years
+Expected CTC: 122000 INR
+Notice Period: 30 Days
+Willing to Relocate: Yes
+Willing to Remote: Yes
+Preferred Locations: Banglore,Pune,Mumbai, Remote
+
+--- Education & Skills ---
+Highest Qualification: Bachelor of Science
+Branch / Specialization: Computer Science
+College / University: Massachusetts Institute of Technology
+Graduation Year: 2025
+
+Primary Skills: Python, JavaScript, React, Node.js, AWS, SQL
+Secondary Skills: Docker, Kubernetes, CI/CD, TypeScript
+
+--- Social Links ---
+LinkedIn: https://www.linkedin.com/in/atharv-hatwar/
+GitHub: https://github.com/atharv01h
+Portfolio: https://example.com
+
+--- Custom Fields (Optional) ---
+Visa Status: Indian 
+Clearance: None
+Cover Letter: I am a passionate software engineer with 4 years of experience building scalable web applications. I am excited about the opportunity to contribute to your team.
