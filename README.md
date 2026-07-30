@@ -1,6 +1,6 @@
 # JobPilot AI 🚀
 
-> A professional AI-powered desktop application for discovering, tracking, and applying to entry-level software engineering jobs automatically.
+> A professional AI-powered desktop application that automatically discovers, tracks, and applies for software engineering and other tech jobs.
 
 **⚠️ Disclaimer:** This project is actively under development. It is an experimental open-source tool and is not yet production-ready. There may be bugs, missing features, breaking changes, and unfinished functionality. Use at your own risk.
 
